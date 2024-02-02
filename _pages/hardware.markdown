@@ -9,7 +9,7 @@ A good engineer knows hardware better than software. That's because hardware can
 Below are some of the fun hardware projects I've worked on in the past. Though, I admit, none of them would work without software. 
 <hr>
 <!-- mROBerTO 2.0-->
-<a href="site.baseurl/hardware_projects/mroberto_2">
+<a href="/site.baseurl/hardware_projects/mroberto_2">
 (1) mROBerTO 2.0: A Millirobot for Swarm Studies
 </a>
 <p>
@@ -17,7 +17,7 @@ Below are some of the fun hardware projects I've worked on in the past. Though, 
 </p>
 <hr>
 <!-- Slip angle sensor-->
-<a href="site.baseurl/hardware_projects/slip_angle_sensor">
+<a href="/site.baseurl/hardware_projects/slip_angle_sensor">
 (2) Design of a Slip-Angle Sensor for the University of Toronto Formula Racing Team
 </a>
 <p>

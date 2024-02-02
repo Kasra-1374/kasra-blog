@@ -3,7 +3,7 @@ layout: single
 title: "Design of a Slip-Angle Sensor for the University of Toronto Formula Racing Team"
 date: 2024-01-29
 classes: wide
-permalink: /hardware/slip_angle_sensor
+permalink: /site.baseurl/hardware/slip_angle_sensor
 ---
 
 # Introduction
