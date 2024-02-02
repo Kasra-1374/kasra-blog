@@ -1,0 +1,32 @@
+# main links
+main:
+  - title: "Hardware"
+    url: /hardware/
+  - title: "Software"
+    url: /software/
+  - title: "About"
+    url: /about/
+  
+# sidebar navigation list sample
+collaborative-motion-sidebar:
+  - title: "Introduction"
+    children:
+      - title: ""
+        url: /introduction
+  - title: "Inchworm-Inspired Strategy"
+    children:
+      - title: "Overview"
+        url: /software_projects/collaborative_motion/#overview
+      - title: "optimization"
+        url: /software_projects/collaborative_motion/#optimization
+      - title: "Reference"
+        url: /software_projects/collaborative_motion/#reference
+  - title: "Tether-Based Strategy"
+    children:
+      - title: "Overview"
+        url: /software_projects/collaborative_motion/#overview-1
+      - title: "optimization"
+        url: /software_projects/collaborative_motion/#optimization-1
+      - title: "Reference"
+        url: /software_projects/collaborative_motion/#reference-1
+
