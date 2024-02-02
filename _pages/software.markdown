@@ -25,7 +25,7 @@ p {
 </p>
 <hr>
 <!-- Collaborative-motion control strategies-->
-<a href="/software_projects/collaborative_motion/">
+<a href="/software_projects/collaborative_motion">
 	(1) Collaborative-Motion Control Strategies for Robotic Swarms
 </a>
 <p>
@@ -33,7 +33,7 @@ p {
 </p>
 <hr>
 <!-- constrained swarm motion planning-->
-<a href="/software_projects/constrained_planning/">
+<a href="/software_projects/constrained_planning">
 	(2) Constrained Swarm Motion Planning
 </a>
 <p>
@@ -41,7 +41,7 @@ p {
 </p>
 <hr>
 <!-- Improvement prediction-->
-<a href="/software_projects/improvement_prediction/">
+<a href="/software_projects/improvement_prediction">
 	(3) Improvement Prediction
 </a>
 <p>
@@ -49,7 +49,7 @@ p {
 </p>
 <hr>
 <!-- Amazon product rating-->
-<a href="/software_projects/amazon_product_rating/">
+<a href="/software_projects/amazon_product_rating">
 	(4) Amazon Product Rating
 </a>
 <p>
