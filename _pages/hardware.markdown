@@ -17,7 +17,7 @@ Below are some of the fun hardware projects I've worked on in the past. Though, 
 </p>
 <hr>
 <!-- Slip angle sensor-->
-<a href="/site.baseurl/hardware_projects/slip_angle_sensor">
+<a href="{{ /hardware_projects/slip_angle_sensor | prepend:site.baseurl }}">
 (2) Design of a Slip-Angle Sensor for the University of Toronto Formula Racing Team
 </a>
 <p>
