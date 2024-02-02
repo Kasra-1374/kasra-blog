@@ -1,7 +1,6 @@
 ---
 title: "HEY! Software here!"
-permalink: /software/
-classes: wide
+permalink: /software
 ---
 
 <!-- styles -->

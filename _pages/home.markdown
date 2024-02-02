@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "HEY!"
-permalink: /
+permalink: 
 header:
   image: /assets/files_headers/test_header.png
   image_description: "A description of the image"
